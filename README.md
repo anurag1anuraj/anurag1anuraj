@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Anurag
-- **I’m a passionate web designer and developer with a focus on creating beautiful, responsive websites using HTML, CSS, Tailwind CSS, and JavaScript. I aim to deliver user-friendly, visually appealing, and optimized websites with high performance.
+-**I’m a passionate web designer and developer with a focus on creating beautiful, responsive websites using HTML, CSS, Tailwind CSS, and JavaScript. I aim to deliver user-friendly, visually appealing, and optimized websites with high performance.
 
 - 
 - **Languages**: HTML5, CSS3, JavaScript, jQuery
