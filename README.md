@@ -1,4 +1,10 @@
 ### Hi there! <h1> 👋 I'm Anurag</h1>
+
+<style>
+  h1{
+    color: red;
+  }
+</style>
 <p>
   I’m a passionate web designer and developer with a focus on creating beautiful, responsive websites using HTML, CSS, Tailwind CSS, and JavaScript. I aim to deliver user-friendly, visually appealing, and optimized websites with high performance.
 </p>
