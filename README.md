@@ -12,7 +12,10 @@ I’m open to collaborating on **front-end web development projects**, **UI/UX d
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag1anuraj&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag1anuraj&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</p>
 
 - **Email**: anuragageetha@gmail.com
 - **Portfolio**: --------------------
